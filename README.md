@@ -6,3 +6,6 @@ A React and Bootstrap-based Random Quote Generator app that makes use of a simpl
 
 Created on CodePen.io. Original URL: [https://codepen.io/amenhasfaw/pen/poVpWVG](https://codepen.io/amenhasfaw/pen/poVpWVG).
 
+---
+
+![](https://github.com/amenhasfaw/Random-Quote-Generator-FCC/blob/master/Screenshot.png)
